@@ -2,7 +2,14 @@
 
 Projeto desenvolvido no **MBA Data Engineering - Projeto Final**, com objetivo de criar um **pipeline de ingestão, transformação, carga e análise de cotações cambiais**, enriquecido com **insights automáticos gerados via LLM (Google Gemini/OpenAI)**.
 
-Autor: **Gabriel Morais Simonini Sussmann**  
+## 👥 Integrantes do Grupo
+
+| Nome | 
+| :--- | 
+| **Gabriel Morais Simonini Sussmann** |
+| **Bruno Boggio** |
+| **Nelson Francisco Valerio dos Reis** |
+| **Denis Varela** |  
 Versão: **2.0 - com configuração automática do `.env`**
 
 ---
