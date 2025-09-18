@@ -10,7 +10,8 @@ Projeto desenvolvido no **MBA Data Engineering - Projeto Final**, com objetivo d
 | **Bruno Boggio** |
 | **Nelson Francisco Valerio dos Reis** |
 | **Denis Varela** |  
-Versão: **2.0 - com configuração automática do `.env`**
+
+## Versão: **2.0 - com configuração automática do `.env`**
 
 ---
 
